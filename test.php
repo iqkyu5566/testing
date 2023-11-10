@@ -1,0 +1,1 @@
+echo "selamat datang di lembah hitam putih";
